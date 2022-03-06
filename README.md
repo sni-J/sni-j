@@ -4,14 +4,14 @@
   
 </div>
 
-# Hello, there!:wave:
+## Hello, there!:wave:
 
 **Web Frontend Developer**
 
 ![name](https://img.shields.io/badge/Name-이원준%20Won--Joon%20Lee-222222?style=for-the-badge&labelColor=00ffff)
 &emsp;
 ![nickname](https://img.shields.io/badge/Nickname-sniperJ(sni/J)%20|%20Joon-222222?style=for-the-badge&labelColor=00ffff)
----
+
 
 ![REACT](https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&logoColor=000000)
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
@@ -35,20 +35,20 @@
 ![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=ffffff)
 
 
-## am/was at...
-### Work
+### am/was at...
+**Work**
 
 :car: [@joon-prnd](https://github.com/joon-prnd)[@PRNDcompany](https://github.com/PRNDcompany) <sub>'21.11 ~ (산업기능요원)</sub>
 
 :penguin: joon[@waddle-corp](https://github.com/waddle-corp) <sub>'21.06 ~ '21.10</sub>
 
-### Education / Club
+**Education / Club**
 
 KAIST CS / [@sparcs-kaist](https://github.com/sparcs-kaist) <sub>'19 ~</sub>
 
 KSA / [@eosofksa](https://github.com/eosofksa) <sub>'16 ~ '18</sub>
 
-## Wanna contact?
+### Wanna contact?
 
 [![Mail](https://img.shields.io/badge/MAIL-sniperj%40sniper.dev-222222?style=for-the-badge&labelColor=222222)](mailto:sniperj@sniperj.dev)
 [![webpage](https://img.shields.io/badge/sniperj.dev-00ffff?style=for-the-badge&labelColor=222222)](https://sniperj.dev)
