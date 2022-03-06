@@ -1,9 +1,3 @@
-<div align=right>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsni-J&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23000000&title=VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
-  
-</div>
-
 ## Hello, there!:wave:
 
 **Web Frontend Developer**
@@ -11,7 +5,6 @@
 ![name](https://img.shields.io/badge/Name-이원준%20Won--Joon%20Lee-222222?style=for-the-badge&labelColor=00ffff)
 &emsp;
 ![nickname](https://img.shields.io/badge/Nickname-sniperJ(sni/J)%20|%20Joon-222222?style=for-the-badge&labelColor=00ffff)
-
 
 ![REACT](https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&logoColor=000000)
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
@@ -34,6 +27,9 @@
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=ffffff)
 ![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=ffffff)
 
+### have interest in...
+- improving productivity of developer
+- design system / frontend system engineering
 
 ### am/was at...
 **Work**
@@ -44,7 +40,7 @@
 
 **Education / Club**
 
-KAIST CS / [@sparcs-kaist](https://github.com/sparcs-kaist) <sub>'19 ~</sub>
+KAIST SoC / [@sparcs-kaist](https://github.com/sparcs-kaist) <sub>'19 ~</sub>
 
 KSA / [@eosofksa](https://github.com/eosofksa) <sub>'16 ~ '18</sub>
 
@@ -53,3 +49,10 @@ KSA / [@eosofksa](https://github.com/eosofksa) <sub>'16 ~ '18</sub>
 [![Mail](https://img.shields.io/badge/MAIL-sniperj%40sniper.dev-222222?style=for-the-badge&labelColor=222222)](mailto:sniperj@sniperj.dev)
 [![webpage](https://img.shields.io/badge/sniperj.dev-00ffff?style=for-the-badge&labelColor=222222)](https://sniperj.dev)
 [![로켓펀치](https://img.shields.io/badge/로켓펀치-%40snij-4e61ff?style=for-the-badge&labelColor=4e61ff)](https://www.rocketpunch.com/@snij)
+
+
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsni-J&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23000000&title=VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+</div>
